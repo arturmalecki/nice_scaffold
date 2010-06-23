@@ -1,3 +1,5 @@
+CHANGELOG
+Manifest
 README.rdoc
 Rakefile
 generators/nice_scaffold/nice_scaffold_generator.rb
@@ -8,5 +10,5 @@ generators/nice_scaffold/templates/views/edit.html.haml.rb
 generators/nice_scaffold/templates/views/index.html.haml.rb
 generators/nice_scaffold/templates/views/new.html.haml.rb
 generators/nice_scaffold/templates/views/show.html.haml.rb
-nice_scaffold.gemspec
-Manifest
+init.rb
+lib/nice_scaffold.rb

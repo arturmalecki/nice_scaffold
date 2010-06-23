@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('nice_scaffold', '0.0.1') do |p|
+Echoe.new('nice_scaffold', '0.0.2') do |p|
   p.description    = "Rails scaffold."
   p.url            = "http://github.com/seeweer/nice_scaffold"
   p.author         = "Artur Małecki"
